@@ -17,12 +17,12 @@ export default function Projects() {
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit,minmax(320px,1fr))', gap: '22px' }}>
 
-          {/* Segunda Vuelta */}
+          {/* Gestión de Crédito */}
           <div className="proj-card" style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '14px', overflow: 'hidden' }}>
             <div style={{ background: 'var(--surface2)', borderBottom: '1px solid var(--border)', padding: '16px 22px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '10px', flexWrap: 'wrap' }}>
               <div>
                 <div style={{ color: 'var(--green)', fontSize: '11px', letterSpacing: '.06em', textTransform: 'uppercase', marginBottom: '4px' }}>proyecto propio</div>
-                <div style={{ color: '#fff', fontSize: '17px', fontWeight: 700 }}>Segunda Vuelta</div>
+                <div style={{ color: '#fff', fontSize: '17px', fontWeight: 700 }}>Gestión de Crédito</div>
               </div>
               <span style={{ background: 'rgba(63,185,80,.15)', color: 'var(--green)', border: '1px solid rgba(63,185,80,.3)', fontSize: '11px', padding: '4px 10px', borderRadius: '20px', whiteSpace: 'nowrap' }}>En producción</span>
             </div>
