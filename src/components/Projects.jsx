@@ -28,8 +28,8 @@ export default function Projects() {
             </div>
             <div style={{ padding: '20px 22px', display: 'flex', flexDirection: 'column', gap: '16px' }}>
               <p style={{ margin: 0, color: 'var(--text)', fontSize: '14px', lineHeight: 1.8 }}>
-                PWA de gestión de créditos y cobros para una tienda de ropa de segunda mano.
-                Reemplaza el seguimiento manual de compras a crédito, abonos y notificaciones a clientas.
+                PWA de gestión de créditos y cobros para una tienda de ropa.
+                Reemplaza el seguimiento manual de compras a crédito, abonos y notificaciones a clientes.
                 La marca <JcBrand /> aparece en cada comprobante enviado.
               </p>
               <div>
